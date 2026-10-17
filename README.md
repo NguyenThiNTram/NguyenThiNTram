@@ -4,14 +4,12 @@
 
 <p align="center"><img src="assets/sec-about.svg" alt="About" height="40" /></p>
 
-I'm a final-year IT student focusing on backend development with C# and .NET. Most of my time goes into learning how applications work behind the scenes, building APIs, and working with databases.
+I'm a final-year IT student focusing on backend development with C# and .NET. I enjoy building APIs, working with databases, and turning ideas into working features.
 
-I enjoy turning ideas into working features, even when it takes a few attempts to get things right. I'm still learning a lot, especially when it comes to system design and writing code that's easier to maintain.
-
-Outside backend development, I'm gradually exploring frontend development, networking, cloud computing, and AI. I want to understand more of the full development process instead of focusing on just one part of an application.
+I'm currently expanding my skills in system design, frontend development, networking, cloud, and security, with a long-term goal of becoming a Full-Stack Developer and moving into AI.
 
 <p align="center">
-  <img src="assets/about-facts.svg" alt="Currently working on backend development; main focus C#, .NET, RESTful APIs; learning system design and cloud; based in Vietnam" width="100%" />
+  <img src="assets/about-facts.svg" alt="Final-year IT student; currently in backend development with C# and .NET; learning system design, frontend, networking, cloud and security; long-term goal Full-Stack Developer and AI; based in Vietnam" width="100%" />
 </p>
 
 ---
@@ -51,12 +49,12 @@ Outside backend development, I'm gradually exploring frontend development, netwo
 <p align="center"><img src="assets/sec-stats.svg" alt="GitHub Statistics" height="40" /></p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=NguyenThiNTram&show_icons=true&bg_color=402B47&title_color=C9E0EB&text_color=C9E0EB&icon_color=8350C4&border_color=7392B5&border_radius=16&hide_border=false" alt="GitHub Stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=NguyenThiNTram&background=402B47&border=7392B5&border_radius=16&ring=8350C4&fire=C9E0EB&stroke=7392B5&currStreakNum=C9E0EB&sideNums=C9E0EB&currStreakLabel=C9E0EB&sideLabels=C9E0EB&dates=7392B5" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=NguyenThiNTram&show_icons=true&bg_color=1A1A1A&title_color=EDEDED&text_color=BDBDBD&icon_color=FFFFFF&border_color=6B6B6B&border_radius=16&hide_border=false" alt="GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=NguyenThiNTram&background=1A1A1A&border=6B6B6B&border_radius=16&ring=EDEDED&fire=FFFFFF&stroke=6B6B6B&currStreakNum=EDEDED&sideNums=EDEDED&currStreakLabel=EDEDED&sideLabels=BDBDBD&dates=8A8A8A" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NguyenThiNTram&layout=compact&bg_color=402B47&title_color=C9E0EB&text_color=C9E0EB&icon_color=8350C4&border_color=7392B5&border_radius=16&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NguyenThiNTram&layout=compact&bg_color=1A1A1A&title_color=EDEDED&text_color=BDBDBD&icon_color=FFFFFF&border_color=6B6B6B&border_radius=16&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
